@@ -1,0 +1,20 @@
+{
+    "name": "node-chat",
+    "description": "Simplest chat made with express.js",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "node server.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/vicluber/node-chat.git"
+    },
+    "author": "Victor WIllhuber",
+    "dependencies": {
+      "express": "^4.17.1",
+      "nodemon": "^1.19.4",
+      "socket.io": "^2.3.0"
+    },
+    "homepage": "https://github.com/ashleygwilliams/my_package"
+  }
